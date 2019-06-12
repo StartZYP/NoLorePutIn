@@ -1,0 +1,4 @@
+name: noloreputin
+main: com.github.startzyp.noloreputin.main
+version: 1.0
+commands:
